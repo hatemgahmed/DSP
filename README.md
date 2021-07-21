@@ -10,4 +10,6 @@ A Library for efficient Digital Signal Processing on Microcontrollers using C++
 
 4- Decaying Exponential Drift Eliminator (Tested only on originally constant signals)
 
-5- A trigger-based measurement implementation for ultrasonic sensors (Stopping delay on active polling for output change)
+5- Signal Rectifier eliminates noise and drift using Drift Eliminator and Alpha Filter
+
+6- A trigger-based measurement implementation for ultrasonic sensors (Stopping delay on active polling for output change)
